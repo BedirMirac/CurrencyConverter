@@ -1,0 +1,2 @@
+OUTPUT_FILE=YOURFILE.json 
+API_URL=https://v6.exchangerate-api.com/v6/YOURAPI/latest/USD
