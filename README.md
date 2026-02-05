@@ -27,7 +27,7 @@
  Or run directly with `go run`:
 
  ```bash
- go run main.go
+ go run .
  ```
 
  ## Usage
@@ -37,7 +37,7 @@
  Start the app:
 
  ```bash
- go run main.go
+ go run .
  # or build then run:
  go build -o currency-converter
  ./currency-converter
