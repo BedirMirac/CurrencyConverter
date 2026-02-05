@@ -1,5 +1,7 @@
 # Currency Converter
 
+![Currency Converter Demo](demo.gif)
+
  A simple command-line currency converter written in Go. Converts between currencies using local exchange rates and includes utilities for conversion and database creation.
 
  ## Features
